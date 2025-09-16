@@ -66,7 +66,7 @@ Adjust the count threshold according to obstacle size and your system's sensitiv
 
 ## Demo
 
-![Demo GIF](media/dino.gif)
+[demo video](media/dino.gif)
 
 
 ## Notes
