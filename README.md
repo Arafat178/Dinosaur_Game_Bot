@@ -64,9 +64,10 @@ if count > 50:
 
 Adjust the count threshold according to obstacle size and your system's sensitivity.
 
-## 📸 Demo
+## Demo
 
-(demo video)(media/demo.gif)
+![Demo GIF](media/dino.gif)
+
 
 ## Notes
 
